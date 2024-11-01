@@ -1,2 +1,2 @@
 # Loading_screen
-[![Watch the video]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://www.youtube.com/watch?v=B6Kp_yKboqI))
+https://github.com/user-attachments/assets/9b8f2025-da56-494c-8b91-126c0482ca5a
